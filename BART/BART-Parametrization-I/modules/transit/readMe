@@ -1,0 +1,8 @@
+for each retrieval run
+- make a config file with the best-fit atm file
+- run transit with 1e100 toomuch
+  add savefiles yes
+- use this putput tau.dat for contribution functions
+
+for each theoretical point from the 3D simulation
+you can do the same

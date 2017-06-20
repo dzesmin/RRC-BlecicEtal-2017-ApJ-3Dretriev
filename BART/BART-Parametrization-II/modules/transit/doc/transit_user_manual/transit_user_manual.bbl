@@ -1,0 +1,27 @@
+\begin{thebibliography}{4}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{{Fischer} {et~al.}(2003){Fischer}, {Gamache}, {Goldman}, {Rothman},
+  \& {Perrin}}]{FischerEtal2003jqsrtTIPS}
+{Fischer}, J., {Gamache}, R.~R., {Goldman}, A., {Rothman}, L.~S., \& {Perrin},
+  A. 2003, \jqsrt, 82, 401,
+  \adsurl{http://adsabs.harvard.edu/abs/2003JQSRT..82..401F}
+
+\bibitem[{{Laraia} {et~al.}(2011){Laraia}, {Gamache}, {Lamouroux}, {Gordon}, \&
+  {Rothman}}]{LaraiaEtal2011icarusTIPS}
+{Laraia}, A.~L., {Gamache}, R.~R., {Lamouroux}, J., {Gordon}, I.~E., \&
+  {Rothman}, L.~S. 2011, Icarus, 215, 391,
+  \adsurl{http://adsabs.harvard.edu/abs/2011Icar..215..391L}
+
+\bibitem[{{Lide}(2008)}]{Lide2008ChemistryHandbook}
+{Lide}, D.~R. 2008, {CRC Handbook of chemistry and physics: a ready-reference
+  book of chemical and physical data},
+  \adsurl{http://adsabs.harvard.edu/abs/2008chcp.book.....L}
+
+\bibitem[{{{\v S}ime{\v c}kov{\'a}} {et~al.}(2006){{\v S}ime{\v c}kov{\'a}},
+  {Jacquemart}, {Rothman}, {Gamache}, \& {Goldman}}]{Simeckova2006jqsrtHITRAN}
+{{\v S}ime{\v c}kov{\'a}}, M., {Jacquemart}, D., {Rothman}, L.~S., {Gamache},
+  R.~R., \& {Goldman}, A. 2006, \jqsrt, 98, 130,
+  \adsurl{http://adsabs.harvard.edu/abs/2006JQSRT..98..130S}
+
+\end{thebibliography}

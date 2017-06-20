@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: transit_user_manual.aux
+The style file: apj_hyperref.bst
+Illegal, another \bibdata command---line 109 of file transit_user_manual.aux
+ : \bibdata
+ :         {transit_user_manual}
+I'm skipping whatever remains of this command
+Database file #1: transit_user_manual.bib
+I was expecting a `,' or a `}'---line 1997 of file transit_user_manual.bib
+ :     
+ :     pages = {1350004},
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+You can't pop an empty literal stack for entry FischerEtal2003jqsrtTIPS
+while executing---line 1691 of file apj_hyperref.bst
+You can't pop an empty literal stack for entry LaraiaEtal2011icarusTIPS
+while executing---line 1691 of file apj_hyperref.bst
+Warning--empty publisher in Lide2008ChemistryHandbook
+You can't pop an empty literal stack for entry Lide2008ChemistryHandbook
+while executing---line 1691 of file apj_hyperref.bst
+You can't pop an empty literal stack for entry Simeckova2006jqsrtHITRAN
+while executing---line 1691 of file apj_hyperref.bst
+You've used 4 entries,
+            3067 wiz_defined-function locations,
+            695 strings with 5977 characters,
+and the built_in function-call counts, 2019 in all, are:
+= -- 155
+> -- 146
+< -- 1
++ -- 52
+- -- 48
+* -- 185
+:= -- 377
+add.period$ -- 4
+call.type$ -- 4
+change.case$ -- 32
+chr.to.int$ -- 4
+cite$ -- 5
+duplicate$ -- 82
+empty$ -- 132
+format.name$ -- 58
+if$ -- 390
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 4
+newline$ -- 16
+num.names$ -- 16
+pop$ -- 41
+preamble$ -- 1
+purify$ -- 32
+quote$ -- 0
+skip$ -- 63
+stack$ -- 0
+substring$ -- 74
+swap$ -- 0
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 33
+warning$ -- 1
+while$ -- 15
+width$ -- 0
+write$ -- 46
+(There were 6 error messages)
